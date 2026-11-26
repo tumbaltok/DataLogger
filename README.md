@@ -1,11 +1,6 @@
 # DataLogger — Multi-Device IoT & SCADA Repository
 
-![ESP32](https://img.shields.io/badge/MCU-ESP32%2030--Pin-blue?style=flat-square)
-![Signal](https://img.shields.io/badge/Input-4--20mA%20Loop-red?style=flat-square)
-![Broker](https://img.shields.io/badge/MQTT-EMQX-brightgreen?style=flat-square)
-![SCADA](https://img.shields.io/badge/SCADA-Node--RED-darkred?style=flat-square)
-![VPN](https://img.shields.io/badge/Remote-Tailscale-informational?style=flat-square)
-![Build](https://img.shields.io/badge/Toolchain-PlatformIO-orange?style=flat-square)
+`MCU: ESP32 30-Pin` · `Input: 4-20mA Loop` · `MQTT: EMQX` · `SCADA: Node-RED` · `VPN: Tailscale` · `Toolchain: PlatformIO`
 
 Repositori terpusat untuk proyek **Data Logger & SCADA** lintas perangkat (ESP32, Raspberry Pi, dan node akuisisi lainnya).
 
